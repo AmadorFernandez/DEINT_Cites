@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Cites</string>
+    <string name="name">Nombre</string>
+    <string name="cif">CIF</string>
+    <string name="location">Direccion</string>
+    <string name="phone">Telefono</string>
+    <string name="mail">Email</string>
+    <string name="save" >Guardar</string>
+    <string name="invalid_format_email">Formato de email invalido</string>
+    <string name="text_empty">No puede haber campos en blanco</string>
+    <string name="invalid_format_phone">Formato de telefono invalido</string>
+    <string name="business">Mi empresa</string>
+    <string name="clients">Clientes</string>
+    <string name="cites">Citas</string>
+    <string name="user_no_registed">Hola, para empezar porque no intruces los datos de tu empresa?</string>
+    <string name="company">Empresa</string>
+    <string name="fail_insert">Fallo al guardar</string>
+    <string name="insert_ok">Guardado con exito</string>
+    <string name="fail_update">Fallo al actualizar</string>
+    <string name="update_ok">Actualizado con exito</string>
+    <string name="delete_ok">Borrado con exito</string>
+    <string name="delete_fail">Fallo al borrar</string>
+    <string name="update">Actualizar</string>
+    <string name="delete">Borrar</string>
+    <string name="sure_delete">Esta seguro de que desea borrar este elemento?</string>
+    <string name="surnames">Apellidos</string>
+    <string name="date">Fecha de la cita yyyy-MM-dd</string>
+    <string name="timeStart">Hora de comienzo HH:mm</string>
+    <string name="timeEnd">Hora de fin</string>
+    <string name="invalid_format_time">Formato de hora incorrecto</string>
+    <string name="invalid_format_date">Formato de fecha incorrecto a de ser yyyy-MM-dd</string>
+    <string name="invalid_time_cite">La hora de inicio no puede ser mayor que la de fin</string>
+    <string name="not_client">Para Añadir citas necesitas clientes</string>
+    <string name="today">Actualmente tiene que atender </string>
+    <string name="cites_noty"> citas</string>
+</resources>
